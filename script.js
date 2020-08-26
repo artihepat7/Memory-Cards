@@ -9,7 +9,7 @@ const questionEl = document.getElementById("question");
 const answerEl = document.getElementById("answer");
 const addCard = document.getElementById("add-card");
 const clearBtn = document.getElementById("clear");
-
+console.log("testing");
 //active card index
 let currentActiveElement = 0;
 
